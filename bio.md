@@ -1,2 +1,4 @@
 ## Name: Herta Calvo-Faugier
-Photo of me ![Herta](images/headshot.jpg)
+## github id: hertacalvo
+## chat.rcos.io handle: calvoh
+Photo of me ![Herta](images/komaru-cat.jpg)

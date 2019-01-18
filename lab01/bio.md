@@ -6,4 +6,6 @@
 
 **Photo:**
 
-<img src="images/komaru-cat.jpg" height="250"/>
+<img src="images/komaru.jpg" height="250"/>
+
+(Not my cat)

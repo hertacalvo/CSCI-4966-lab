@@ -31,6 +31,7 @@ Screenshot of ``git log --graph --oneline --decorate``
 ** Learn Git Branching **
 
 Screenshot of four completed levels of Learn Git Branching
+
 <img src="images/git-branching.png" width="400"/>
 
 

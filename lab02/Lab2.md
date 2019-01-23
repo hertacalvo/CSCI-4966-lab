@@ -9,14 +9,17 @@
 ** Screenshots **
 
 Screenshot of ``gitk``
+
 <img src="images/gitk.png" width="400"/>
 
 
 Screenshot of ``gitk --all``
+
 <img src="images/gitk-all.png" width="400"/>
 
 
 Screenshot of ``git log --graph --oneline --decorate``
+
 <img src="images/git-log.png" width="400"/>
 
 

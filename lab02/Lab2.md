@@ -36,6 +36,14 @@ Screenshot of four completed levels of Learn Git Branching
 
 
 ## Part 3
-** Link to fork **
+** Link to my PullReq fork **
 
 [https://github.com/hertacalvo/PullReq](https://github.com/hertacalvo/PullReq)
+
+** Link to my "courseproject" repo **
+
+[https://github.com/hertacalvo/courseproject](https://github.com/hertacalvo/courseproject)
+
+** Link to Table 6 project ideas repo **
+
+[https://github.com/neurosie/ProjectIdeas2019](https://github.com/neurosie/ProjectIdeas2019)

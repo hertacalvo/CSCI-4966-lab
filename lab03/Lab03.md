@@ -74,3 +74,5 @@ Pipeline:
 
 
 ## Part 2 - Testing
+** Testing directory **  
+[pythontesting link][resources/pythontesting]

@@ -1,6 +1,14 @@
 # Lab3.md (actually Lab4)
 
 ## Part 0 - Documentation
+**Wiki page**  
+[https://github.com/hertacalvo/CSCI-4966-lab/wiki/Project-Interest](https://github.com/hertacalvo/CSCI-4966-lab/wiki/Project-Interest)
+
+**Latex code for formulae**
+``$$\sqrt{1+2 \sqrt{1+3 \sqrt{1+4 \sqrt{1 + ...}}}}$$``  
+
+``$$\sqrt{2}^{\sqrt{2}^{\sqrt{2}^{\sqrt{2}...}}}$$``  
+
 
 ## Part 1 - Community
 ### Project stats

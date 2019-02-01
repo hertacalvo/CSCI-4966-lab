@@ -57,19 +57,19 @@ Changes shown with strikethrough
 - Current branches: 2
 
 ### Gource Links
-Organizer:
+Organizer:  
 [https://www.youtube.com/watch?v=RNQ1Mi7HG5M&feature=youtu.be](https://www.youtube.com/watch?v=RNQ1Mi7HG5M&feature=youtu.be)
 
-OpenCircuits:
+OpenCircuits:  
 <img src="images/Hayes-Gource.png" width="500">
 
-Red Army App:
+Red Army App:  
 [https://www.youtube.com/watch?v=nFkt7IjXUms&feature=youtu.be](https://www.youtube.com/watch?v=nFkt7IjXUms&feature=youtu.be)
 
-PhoneControllers:
+PhoneControllers:  
 [https://youtu.be/AL1VwdgS-ck](https://youtu.be/AL1VwdgS-ck)
 
-Pipeline:
+Pipeline:  
 [https://www.youtube.com/watch?v=_rcXZxHJkRo&feature=youtu.be](https://www.youtube.com/watch?v=_rcXZxHJkRo&feature=youtu.be)
 
 

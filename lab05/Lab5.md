@@ -1,21 +1,22 @@
 # Lab5.md - Build Systems
 ### CMake Tutorial
-**Step 1**  
+**Starting Point**  
 Code:  
 
 Results:  
 
 
-**Step 2**  
+**Adding a Library**  
 Code:  
 
 Results:  
 
 
-**Step 3**  
+**Installing and Testing**  
 Code:  
 
 Results:  
+
 
 
 ### Lab-Example makefile

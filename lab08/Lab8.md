@@ -21,7 +21,24 @@ Find a system that is close to your specific configuration in the Nightly sectio
 - System build: `Mac10.12-clang-dbg-x86_64`.
 - Dashboard is pretty clean: no errors on "Configure", 5 warnings and no errors on "Build", and only 1 fail on "Test".
 
-**Experimental build (fail)**  
+**Experimental build (failed)**  
 <img src="screenshots/exp-build-fail.png" width="500">   
 
 ## Checkpoint 3: Adding a Test
+**Added test**  
+<img src="screenshots/added-cxx-file.png" width="500">   
+
+**Added test to cmakelists**  
+<img src="screenshots/cmakelists-txt-file.png" width="500">   
+
+**Experimental build (still failed)**  
+<img src="screenshots/exp-build-fail-2.png" width="500">   
+
+
+## Checkpoint 4: Fixing the text
+**Test fixes**  
+<img src="screenshots/error-fix-1.png" width="500">   
+<img src="screenshots/error-fix-2.png" width="500">   
+
+**Running fixed tests**  
+<img src="screenshots/new-test-run.png" width="500">   

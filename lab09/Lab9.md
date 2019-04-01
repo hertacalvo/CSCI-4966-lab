@@ -2,7 +2,7 @@
 
 **Example 0**  
 The wifi wasn't working in the classroom, so a classmate airdropped Docker to everyone with a Mac  
-<img src="screenshots/airdrop.png" width="300">
+<img src="screenshots/airdrop.png" width="300">  
 Successful installation:  
 <img src="screenshots/ex0.png" width="500">    
 

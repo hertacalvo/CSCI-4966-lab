@@ -21,5 +21,7 @@ Couldn't get flask to work:
 <img src="screenshots/ex3.png" width="500">
 
 **Example 4**  
-I've been having issues with NPM, and this example shows that:  
-<img src="screenshots/ex4.png" width="500">
+It worked!  
+<img src="screenshots/ex4-01.png" width="500">  
+Curl commands: 
+<img src="screenshots/ex4-02.png" width="500">  

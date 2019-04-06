@@ -18,13 +18,17 @@ The `git diff` command did not work (not surprised), but here's a screenshot of 
 
 ## 4. Driving Queries
 Code for `checkpoint4.py`:  
-<img src="screenshots/part4-code.png" width="500">  
+<img src="screenshots/part5-code.png" width="500">  
 Output after running `checkpoint4.py`:  
-<img src="screenshots/part4-output.png" width="500">  
+<img src="screenshots/part5-output.png" width="500">  
+
+Check out the `checkpoint4.py` code [here](code/checkpoint4.py).  
 
 
 ## 5. Random Word Requester
 Code for `checkpoint5.py`:  
-<img src="screenshots/part5-code.png" width="500">  
+<img src="screenshots/part4-code.png" width="500">  
 Output after running `checkpoint5.py`:  
-<img src="screenshots/part5-output.png" width="500">  
+<img src="screenshots/part4-output.png" width="500">  
+
+Check out the `checkpoint5.py` code [here](code/checkpoint5.py).
